@@ -215,7 +215,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                                             : Icons
                                                                 .visibility_off,
                                                         color: Colors.red,
-                                                        size: 18,
+                                                        size: 20,
                                                       ),
                                                     ],
                                                   ),
